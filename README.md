@@ -1,22 +1,23 @@
-# auth
+# Vue Js Blog Files
 
-> My transcendent Nuxt.js project
+> This repo contains the vue js code used to explain the concepts in the overflowjs blogs 
+- [https://overflowjs.com/posts/Vuejs-Getting-Started-2019-Part-1](https://overflowjs.com/posts/Vuejs-Getting-Started-2019-Part-1)
+- [https://overflowjs.com/posts/Vuejs-Structuring-and-Authentication-In-2019-Part-2](https://overflowjs.com/posts/Vuejs-Structuring-and-Authentication-In-2019-Part-2)
 
 ## Build Setup
 
 ``` bash
 # install dependencies
-$ yarn install
+$ npm install
 
 # serve with hot reload at localhost:3000
-$ yarn run dev
+$ npm run dev
 
 # build for production and launch server
-$ yarn run build
-$ yarn start
+$ npm run build
+$ npm start
 
 # generate static project
-$ yarn run generate
+$ npm run generate
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
