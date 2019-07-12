@@ -18,10 +18,12 @@
           Welcome, {{ name }}
         </v-card-title>
         <v-card-text>
+          <v-btn to="/app">
+            CRUD app
+          </v-btn>
           <v-btn @click="logOut">
             Log out
           </v-btn>
-          </form>
         </v-card-text>
       </v-card>
     </v-flex>
